@@ -9,6 +9,13 @@ Zero dependency self contained - Hello world!
     * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) by Randal E. Bryant, and David R. O'Hallaron.
     * [Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew S. Tanenbaum, and Todd Austin.
 
+#### RISC-V
+* [RISC-V Green Sheet](http://inst.eecs.berkeley.edu/~cs61c/resources/RISCV_Green_Sheet.pdf)
+* [The RISC-V Reader: An Open Architecture Atlas](https://www.amazon.com/RISC-V-Reader-Open-Architecture-Atlas/dp/099924910X)
+* [RISC-V Assembly Language](https://www.amazon.com/RISC-V-Assembly-Language-Anthony-Reis/dp/1088462006)
+* [Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design) 1st Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128122757)
+* [Computer Architecture: A Quantitative Approach (The Morgan Kaufmann Series in Computer Architecture and Design) 6th Edition](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055)
+
 ## Compiler
 * Overview:
     * https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler
